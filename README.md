@@ -31,3 +31,6 @@ javac albuaves_api_rest.java
 Por ultimo accedemos a la direccion del servidor, en mi caso (http://127.0.0.1:9191)  
   
 Y ya nos mostraria las aves con el servidor en linea.
+
+
+<img width="574" height="677" alt="server2" src="https://github.com/user-attachments/assets/1f62d437-ddb0-4888-b84c-5f80694c4ac0" />
